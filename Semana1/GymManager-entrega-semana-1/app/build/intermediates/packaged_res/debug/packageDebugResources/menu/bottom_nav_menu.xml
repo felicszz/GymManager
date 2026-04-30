@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sociosFragment"
+        android:icon="@drawable/ic_socios"
+        android:title="Socios" />
+
+    <item
+        android:id="@+id/rutinasFragment"
+        android:icon="@drawable/ic_rutinas"
+        android:title="Rutinas" />
+
+    <item
+        android:id="@+id/clasesFragment"
+        android:icon="@drawable/ic_clases"
+        android:title="Clases" />
+
+    <item
+        android:id="@+id/cuotasFragment"
+        android:icon="@drawable/ic_cuotas"
+        android:title="Cuotas" />
+
+</menu>

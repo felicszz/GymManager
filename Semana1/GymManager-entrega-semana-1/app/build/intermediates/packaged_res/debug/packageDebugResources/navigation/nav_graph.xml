@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/sociosFragment">
+
+    <fragment
+        android:id="@+id/sociosFragment"
+        android:name="com.cftr.gymmanager.ui.socios.SociosFragment"
+        android:label="Socios" />
+
+    <fragment
+        android:id="@+id/rutinasFragment"
+        android:name="com.cftr.gymmanager.ui.rutinas.RutinasFragment"
+        android:label="Rutinas" />
+
+    <fragment
+        android:id="@+id/clasesFragment"
+        android:name="com.cftr.gymmanager.ui.clases.ClasesFragment"
+        android:label="Clases" />
+
+    <fragment
+        android:id="@+id/cuotasFragment"
+        android:name="com.cftr.gymmanager.ui.cuotas.CuotasFragment"
+        android:label="Cuotas" />
+
+</navigation>

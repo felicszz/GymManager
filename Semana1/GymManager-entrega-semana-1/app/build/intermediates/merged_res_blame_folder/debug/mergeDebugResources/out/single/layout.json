@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.cftr.gymmanager.app-mergeDebugResources-51:/layout/fragment_cuotas.xml",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_cuotas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-mergeDebugResources-51:/layout/fragment_rutinas.xml",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_rutinas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-mergeDebugResources-51:/layout/fragment_clases.xml",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_clases.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-mergeDebugResources-51:/layout/fragment_socios.xml",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_socios.xml"
+    }
+]

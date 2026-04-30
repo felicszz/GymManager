@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/navigation_nav_graph.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/layout_fragment_cuotas.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_cuotas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/layout_fragment_rutinas.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_rutinas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/drawable_ic_socios.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/drawable/ic_socios.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/drawable_ic_clases.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/drawable/ic_clases.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/drawable_ic_rutinas.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/drawable/ic_rutinas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/layout_fragment_clases.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_clases.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/drawable_ic_cuotas.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/drawable/ic_cuotas.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cftr.gymmanager.app-debug-52:/layout_fragment_socios.xml.flat",
+        "source": "com.cftr.gymmanager.app-main-54:/layout/fragment_socios.xml"
+    }
+]
